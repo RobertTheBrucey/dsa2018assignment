@@ -1,9 +1,9 @@
 /*****************************************************************************
 * File:      MergeSort.java                                                  *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1002 Data Structures and Algorithms                         *
 * Purpose:   Perform a merge sort on generic input with function             *
-* Reference: Sean Ashton 14866636 Submitted for Prac 6                       *
+* Reference: Sean Ashton  Submitted for Prac 6                       *
 * Comments:  This comment block is the maximum width of 78 characters.       *
 * Requires:  Nothing. List dependencies here                                 *
 * Created:   01/08/2018 * Last Modified: 04/10/2018                          *

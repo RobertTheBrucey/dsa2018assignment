@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      DSAHashTable.java                                               *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1002 Data Structures and Algorithms                         *
 * Purpose:   Template file for source code files                             *
 * Reference: Sean Ashton DSA Prac 8                                          *

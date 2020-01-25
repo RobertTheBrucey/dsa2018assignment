@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      DSALinkedList.java                                              *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1002 Data Structures and Algorithms                         *
 * Purpose:   Implement the ADT Double ended, doubly linked list              *
 * Reference: Sean Ashton, DSA Prac 4                                         *

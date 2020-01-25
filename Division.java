@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      Division.java                                                   *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1002 Data Structures and Algorithms                         *
 * Purpose:   Container class for storing Division information                *
 * Reference: None.                                                           *
